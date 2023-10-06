@@ -1,0 +1,668 @@
+101, Manzanas, 50
+1202, Plátanos, 75
+1303, Naranjas, 60
+104, Peras, 45
+14005, Uvas, 90
+1806, Fresas, 70
+10079, Kiwis, 55
+10086, Mangos, 80
+100559, Sandías, 65
+101011, Papayas, 40
+101441, Cerezas, 100
+101882, Melocotones, 55
+101113, Ciruelas, 75
+108914, Limones, 30
+104815, Uvas verdes, 85
+101846, Frambuesas, 60
+101487, Moras, 70
+101488, Piñas, 95
+1019, Guayabas, 50
+101220, Mandarinas, 65
+102121, Pomelos, 40
+1022, Granadas, 110
+102223, Maracuyás, 45
+1024, Mangostanes, 35
+102995, Litchis, 25
+102226, Carambolas, 80
+102117, Higos, 70
+102128, Grosellas, 60
+102339, Arándanos, 75
+103220, Acerolas, 90
+103551, Guanábanas, 65
+1032, Tamarindos, 40
+1035593, Cactus, 55
+109534, Pitahayas, 85
+10385, Kiwanos, 100
+105536, Melones, 55
+103557, Castañas, 75
+103338, Avellanas, 30
+102239, Nueces de Brasil, 85
+104880, Pistachos, 60
+104991, Almendras, 70
+104772, Nueces de macadamia, 55
+104399, Avellanas de cedro, 40
+104422, Pacanas, 95
+104115, Nueces pecanas, 50
+10246, Anacardos, 65
+10147, Almendras de almendro, 40
+10248, Nueces de nogal, 110
+10349, Nueces de pacana, 45
+10150, Anacardos de cajú, 35
+12051, Nueces de nuez moscada, 25
+10252, Nueces de coco, 80
+101353, Nueces de tigre, 70
+102154, Nueces de nogal negro, 60
+105215, Nueces de nuez de Brasil, 75
+101516, Nueces de cedro, 90
+102157, Nueces de nogal pecán, 65
+10158, Nueces de macadamia, 40
+10159, Nueces de pacana, 55
+102160, Nueces de almendro, 85
+1021161, Nueces de nuez, 100
+106222, Nueces de nuez moscada, 55
+106263, Nueces de coco, 75
+1064, Nueces de tigre, 70
+1065, Nueces de nogal negro, 60
+1066, Nueces de nuez de Brasil, 75
+1067, Nueces de cedro, 90
+1068, Nueces de nogal pecán, 65
+1069, Nueces de macadamia, 40
+1070, Nueces de pacana, 55
+1071, Nueces de almendro, 85
+1072, Nueces de nuez, 100
+1073, Nueces de nuez moscada, 55
+1074, Nueces de coco, 75
+1075, Nueces de tigre, 70
+1076, Nueces de nogal negro, 60
+1077, Nueces de nuez de Brasil, 75
+1078, Nueces de cedro, 90
+1079, Nueces de nogal pecán, 65
+1080, Nueces de macadamia, 40
+1081, Nueces de pacana, 55
+1082, Nueces de almendro, 85
+1083, Nueces de nuez, 100
+1084, Nueces de nuez moscada, 55
+1085, Nueces de coco, 75
+1086, Nueces de tigre, 70
+1087, Nueces de nogal negro, 60
+1088, Nueces de nuez de Brasil, 75
+1089, Nueces de cedro, 90
+1090, Nueces de nogal pecán, 65
+1091, Nueces de macadamia, 40
+1092, Nueces de pacana, 55
+1093, Nueces de almendro, 85
+10904, Nueces de nuez, 100
+10995, Nueces de nuez moscada, 55
+1096, Nueces de coco, 75
+102297, Nueces de tigre, 70
+10398, Nueces de nogal negro, 60
+10199, Nueces de nuez de Brasil, 75
+11200, Nueces de cedro, 90
+112301, Nueces de nogal pecán, 65
+110222, Nueces de macadamia, 40
+11023, Nueces de pacana, 55
+112104, Nueces de almendro, 85
+11905, Nueces de nuez, 100
+11806, Nueces de nuez moscada, 55
+117707, Nueces de coco, 75
+110888, Nueces de tigre, 70
+11709, Nueces de nogal negro, 60
+117710, Nueces de nuez de Brasil, 75
+11178, Nuez de Brasil, 65
+11179, Nuez de cedro, 80
+11180, Nuez de nogal pecán, 55
+11181, Nuez de macadamia, 45
+11182, Nuez de pacana, 60
+11183, Nuez de almendro, 90
+11184, Nuez de nuez, 110
+11185, Nuez de nuez moscada, 65
+11186, Nuez de coco, 85
+11187, Nuez de tigre, 75
+11188, Nuez de nogal negro, 70
+11189, Nuez de nuez de Brasil, 85
+11190, Nuez de cedro, 100
+11191, Nuez de nogal pecán, 75
+11192, Nuez de macadamia, 50
+11193, Nuez de pacana, 65
+11194, Nuez de almendro, 95
+11195, Nuez de nuez, 120
+11196, Nuez de nuez moscada, 75
+11197, Nuez de coco, 90
+11198, Nuez de tigre, 80
+11199, Nuez de nogal negro, 75
+11200, Nuez de nuez de Brasil, 90
+11201, Nuez de cedro, 110
+11202, Nuez de nogal pecán, 85
+11203, Nuez de macadamia, 55
+11204, Nuez de pacana, 70
+11205, Nuez de almendro, 105
+11206, Nuez de nuez, 130
+11207, Nuez de nuez moscada, 85
+11208, Nuez de coco, 95
+11209, Nuez de tigre, 85
+11210, Nuez de nogal negro, 80
+11211, Nuez de nuez de Brasil, 95
+11212, Nuez de cedro, 120
+11213, Nuez de nogal pecán, 95
+11214, Nuez de macadamia, 60
+11215, Nuez de pacana, 75
+11216, Nuez de almendro, 115
+11217, Nuez de nuez, 140
+11218, Nuez de nuez moscada, 95
+11219, Nuez de coco, 100
+11220, Nuez de tigre, 90
+11221, Nuez de nogal negro, 85
+11222, Nuez de nuez de Brasil, 100
+11223, Nuez de cedro, 130
+11224, Nuez de nogal pecán, 105
+11225, Nuez de macadamia, 65
+11226, Nuez de pacana, 80
+11227, Nuez de almendro, 125
+11228, Nuez de nuez, 150
+11229, Nuez de nuez moscada, 105
+11230, Nuez de coco, 105
+11231, Nuez de tigre, 95
+11232, Nuez de nogal negro, 90
+11233, Nuez de nuez de Brasil, 105
+11234, Nuez de cedro, 140
+11235, Nuez de nogal pecán, 115
+11236, Nuez de macadamia, 70
+11237, Nuez de pacana, 85
+11238, Nuez de almendro, 135
+11239, Nuez de nuez, 160
+11240, Nuez de nuez moscada, 115
+11241, Nuez de coco, 110
+11242, Nuez de tigre, 100
+11243, Nuez de nogal negro, 95
+11244, Nuez de nuez de Brasil, 110
+11245, Nuez de cedro, 150
+11246, Nuez de nogal pecán, 125
+11247, Nuez de macadamia, 75
+11248, Nuez de pacana, 90
+11249, Nuez de almendro, 145
+11250, Nuez de nuez, 170
+11251, Nuez de nuez moscada, 125
+11252, Nuez de coco, 115
+11253, Nuez de tigre, 105
+11254, Nuez de nogal negro, 100
+11255, Nuez de nuez de Brasil, 115
+11256, Nuez de cedro, 160
+11257, Nuez de nogal pecán, 135
+11258, Nuez de macadamia, 80
+11259, Nuez de pacana, 95
+11260, Nuez de almendro, 155
+11261, Nuez de nuez, 180
+11262, Nuez de nuez moscada, 135
+11263, Nuez de coco, 120
+11264, Nuez de tigre, 110
+11265, Nuez de nogal negro, 105
+11266, Nuez de nuez de Brasil, 120
+11267, Nuez de cedro, 170
+11268, Nuez de nogal pecán, 145
+11269, Nuez de macadamia, 85
+11270, Nuez de pacana, 100
+11271, Nuez de almendro, 165
+11272, Nuez de nuez, 190
+11273, Nuez de nuez moscada, 145
+11274, Nuez de coco, 125
+11275, Nuez de tigre, 115
+11276, Nuez de nogal negro, 110
+11277, Nuez de nuez de Brasil, 125
+11278, Nuez de cedro, 180
+11279, Nuez de nogal pecán, 155
+11280, Nuez de macadamia, 90
+11281, Nuez de pacana, 105
+11282, Nuez de almendro, 175
+11283, Nuez de nuez, 200
+11284, Nuez de nuez moscada, 155
+11285, Nuez de coco, 130
+11286, Nuez de tigre, 120
+11287, Nuez de nogal negro, 115
+11288, Nuez de nuez de Brasil, 130
+11289, Nuez de cedro, 190
+11290, Nuez de nogal pecán, 165
+11291, Nuez de macadamia, 95
+11292, Nuez de pacana, 110
+11293, Nuez de almendro, 185
+11294, Nuez de nuez, 210
+11295, Nuez de nuez moscada, 165
+11296, Nuez de coco, 135
+11297, Nuez de tigre, 125
+11298, Nuez de nogal negro, 120
+11299, Nuez de nuez de Brasil, 135
+11300, Nuez de cedro, 200
+11301, Nuez de nogal pecán, 175
+11302, Nuez de macadamia, 100
+11303, Nuez de pacana, 115
+11304, Nuez de almendro, 195
+11305, Nuez de nuez, 220
+11306, Nuez de nuez moscada, 175
+11307, Nuez de coco, 140
+11308, Nuez de tigre, 130
+11309, Nuez de nogal negro, 125
+11310, Nuez de nuez de Brasil, 140
+11311, Nuez de cedro, 210
+11312, Nuez de nogal pecán, 185
+11313, Nuez de macadamia, 105
+11314, Nuez de pacana, 120
+11315, Nuez de almendro, 205
+11316, Nuez de nuez, 230
+11317, Nuez de nuez moscada, 185
+11318, Nuez de coco, 145
+11319, Nuez de tigre, 135
+11320, Nuez de nogal negro, 130
+11321, Nuez de nuez de Brasil, 145
+11322, Nuez de cedro, 220
+11323, Nuez de nogal pecán, 195
+11324, Nuez de macadamia, 110
+11325, Nuez de pacana, 125
+11326, Nuez de almendro, 215
+11327, Nuez de nuez, 240
+11328, Nuez de nuez moscada, 195
+11329, Nuez de coco, 150
+11330, Nuez de tigre, 140
+11331, Nuez de nogal negro, 135
+11332, Nuez de nuez de Brasil, 150
+11333, Nuez de cedro, 230
+11334, Nuez de nogal pecán, 205
+11335, Nuez de macadamia, 115
+11336, Nuez de pacana, 130
+11337, Nuez de almendro, 225
+11338, Nuez de nuez, 250
+11339, Nuez de nuez moscada, 205
+11340, Nuez de coco, 155
+11341, Nuez de tigre, 145
+11342, Nuez de nogal negro, 140
+11343, Nuez de nuez de Brasil, 155
+11344, Nuez de cedro, 240
+11345, Nuez de nogal pecán, 215
+11346, Nuez de macadamia, 120
+11347, Nuez de pacana, 135
+11348, Nuez de almendro, 235
+11349, Nuez de nuez, 260
+11350, Nuez de nuez moscada, 215
+11351, Nuez de coco, 160
+11352, Nuez de tigre, 150
+11353, Nuez de nogal negro, 145
+11354, Nuez de nuez de Brasil, 160
+11355, Nuez de cedro, 250
+11356, Nuez de nogal pecán, 225
+11357, Nuez de macadamia, 125
+11358, Nuez de pacana, 140
+11359, Nuez de almendro, 245
+11360, Nuez de nuez, 270
+11361, Nuez de nuez moscada, 225
+11362, Nuez de coco, 165
+11363, Nuez de tigre, 155
+11364, Nuez de nogal negro, 150
+11365, Nuez de nuez de Brasil, 165
+11366, Nuez de cedro, 260
+11367, Nuez de nogal pecán, 235
+11368, Nuez de macadamia, 130
+11369, Nuez de pacana, 145
+11370, Nuez de almendro, 255
+11371, Nuez de nuez, 280
+11372, Nuez de nuez moscada, 235
+11373, Nuez de coco, 170
+11374, Nuez de tigre, 160
+11375, Nuez de nogal negro, 155
+11376, Nuez de nuez de Brasil, 170
+11377, Nuez de cedro, 270
+11378, Nuez de nogal pecán, 245
+11379, Nuez de macadamia, 135
+11380, Nuez de pacana, 150
+11381, Nuez de almendro, 265
+11382, Nuez de nuez, 290
+11383, Nuez de nuez moscada, 245
+11384, Nuez de coco, 175
+11385, Nuez de tigre, 165
+11386, Nuez de nogal negro, 160
+11387, Nuez de nuez de Brasil, 175
+11388, Nuez de cedro, 280
+11389, Nuez de nogal pecán, 255
+11390, Nuez de macadamia, 140
+11391, Nuez de pacana, 155
+11392, Nuez de almendro, 275
+11393, Nuez de nuez, 300
+11394, Nuez de nuez moscada, 255
+11395, Nuez de coco, 180
+11396, Nuez de tigre, 170
+11397, Nuez de nogal negro, 165
+11398, Nuez de nuez de Brasil, 180
+11399, Nuez de cedro, 290
+11400, Nuez de nogal pecán, 265
+11401, Nuez de macadamia, 145
+11402, Nuez de pacana, 160
+11403, Nuez de almendro, 285
+11404, Nuez de nuez, 310
+11405, Nuez de nuez moscada, 265
+11406, Nuez de coco, 185
+11407, Nuez de tigre, 175
+11408, Nuez de nogal negro, 170
+11409, Nuez de nuez de Brasil, 185
+11410, Nuez de cedro, 300
+11411, Nuez de nogal pecán, 275
+11412, Nuez de macadamia, 150
+11413, Nuez de pacana, 165
+11414, Nuez de almendro, 295
+11415, Nuez de nuez, 320
+11416, Nuez de nuez moscada, 275
+11417, Nuez de coco, 190
+11418, Nuez de tigre, 180
+11419, Nuez de nogal negro, 175
+11420, Nuez de nuez de Brasil, 190
+11421, Nuez de cedro, 310
+11422, Nuez de nogal pecán, 285
+11423, Nuez de macadamia, 155
+11424, Nuez de pacana, 170
+11425, Nuez de almendro, 305
+11426, Nuez de nuez, 330
+11427, Nuez de nuez moscada, 285
+11428, Nuez de coco, 195
+11429, Nuez de tigre, 185
+11430, Nuez de nogal negro, 180
+11431, Nuez de nuez de Brasil, 195
+11432, Nuez de cedro, 320
+11433, Nuez de nogal pecán, 295
+11434, Nuez de macadamia, 160
+11435, Nuez de pacana, 175
+11436, Nuez de almendro, 315
+11437, Nuez de nuez, 340
+11438, Nuez de nuez moscada, 295
+11439, Nuez de coco, 200
+11440, Nuez de tigre, 190
+11441, Nuez de nogal negro, 185
+11442, Nuez de nuez de Brasil, 200
+11443, Nuez de cedro, 330
+11444, Nuez de nogal pecán, 305
+11445, Nuez de macadamia, 165
+11446, Nuez de pacana, 180
+11447, Nuez de almendro, 325
+11448, Nuez de nuez, 350
+11449, Nuez de nuez moscada, 305
+11450, Nuez de coco, 205
+11451, Nuez de tigre, 195
+11452, Nuez de nogal negro, 190
+11453, Nuez de nuez de Brasil, 205
+11454, Nuez de cedro, 350
+11455, Nuez de nogal pecán, 315
+11456, Nuez de macadamia, 170
+11457, Nuez de pacana, 185
+11458, Nuez de almendro, 335
+11459, Nuez de nuez, 360
+11460, Nuez de nuez moscada, 315
+11461, Nuez de coco, 210
+11462, Nuez de tigre, 200
+11463, Nuez de nogal negro, 195
+11464, Nuez de nuez de Brasil, 210
+11465, Nuez de cedro, 360
+11466, Nuez de nogal pecán, 325
+11467, Nuez de macadamia, 175
+11468, Nuez de pacana, 190
+11469, Nuez de almendro, 345
+11470, Nuez de nuez, 370
+11471, Nuez de nuez moscada, 325
+11472, Nuez de coco, 215
+11473, Nuez de tigre, 205
+11474, Nuez de nogal negro, 200
+11475, Nuez de nuez de Brasil, 215
+11476, Nuez de cedro, 370
+11477, Nuez de nogal pecán, 335
+11478, Nuez de macadamia, 180
+11479, Nuez de pacana, 195
+11480, Nuez de almendro, 355
+11481, Nuez de nuez, 380
+11482, Nuez de nuez moscada, 335
+11483, Nuez de coco, 220
+11484, Nuez de tigre, 210
+11485, Nuez de nogal negro, 205
+11486, Nuez de nuez de Brasil, 220
+11487, Nuez de cedro, 380
+11488, Nuez de nogal pecán, 345
+11489, Nuez de macadamia, 185
+11490, Nuez de pacana, 200
+11491, Nuez de almendro, 365
+11492, Nuez de nuez, 390
+11493, Nuez de nuez moscada, 345
+11494, Nuez de coco, 225
+11495, Nuez de tigre, 215
+11496, Nuez de nogal negro, 210
+11497, Nuez de nuez de Brasil, 225
+11498, Nuez de cedro, 390
+11499, Nuez de nogal pecán, 355
+11500, Nuez de macadamia, 190
+11501, Nuez de pacana, 205
+11502, Nuez de almendro, 375
+11503, Nuez de nuez, 400
+11504, Nuez de nuez moscada, 355
+11505, Nuez de coco, 230
+11506, Nuez de tigre, 220
+11507, Nuez de nogal negro, 215
+11508, Nuez de nuez de Brasil, 230
+11509, Nuez de cedro, 400
+11510, Nuez de nogal pecán, 365
+11511, Nuez de macadamia, 195
+11512, Nuez de pacana, 210
+11513, Nuez de almendro, 385
+11514, Nuez de nuez, 410
+11515, Nuez de nuez moscada, 365
+11516, Nuez de coco, 235
+11517, Nuez de tigre, 225
+11518, Nuez de nogal negro, 220
+11519, Nuez de nuez de Brasil, 235
+11520, Nuez de cedro, 410
+11521, Nuez de nogal pecán, 375
+11522, Nuez de macadamia, 200
+11523, Nuez de pacana, 215
+11524, Nuez de almendro, 395
+11525, Nuez de nuez, 420
+11526, Nuez de nuez moscada, 375
+11527, Nuez de coco, 240
+11528, Nuez de tigre, 230
+11530, Nuez de nogal negro, 225
+11531, Nuez de nuez de Brasil, 240
+11532, Nuez de cedro, 420
+11533, Nuez de nogal pecán, 385
+11534, Nuez de macadamia, 205
+11535, Nuez de pacana, 220
+11536, Nuez de almendro, 405
+11537, Nuez de nuez, 430
+11538, Nuez de nuez moscada, 385
+11539, Nuez de coco, 245
+11540, Nuez de tigre, 235
+11541, Nuez de nogal negro, 230
+11542, Nuez de nuez de Brasil, 245
+11543, Nuez de cedro, 430
+11544, Nuez de nogal pecán, 395
+11545, Nuez de macadamia, 210
+11546, Nuez de pacana, 225
+11547, Nuez de almendro, 415
+11548, Nuez de nuez, 440
+11549, Nuez de nuez moscada, 395
+11550, Nuez de coco, 250
+11551, Nuez de tigre, 240
+11552, Nuez de nogal negro, 235
+11553, Nuez de nuez de Brasil, 250
+11554, Nuez de cedro, 440
+11555, Nuez de nogal pecán, 405
+11556, Nuez de macadamia, 215
+11557, Nuez de pacana, 230
+11558, Nuez de almendro, 425
+11559, Nuez de nuez, 450
+11560, Nuez de nuez moscada, 405
+11561, Nuez de coco, 255
+11562, Nuez de tigre, 245
+11563, Nuez de nogal negro, 240
+11564, Nuez de nuez de Brasil, 255
+11565, Nuez de cedro, 450
+11566, Nuez de nogal pecán, 415
+11567, Nuez de macadamia, 220
+11568, Nuez de pacana, 235
+11569, Nuez de almendro, 435
+11570, Nuez de nuez, 460
+11571, Nuez de nuez moscada, 415
+11572, Nuez de coco, 260
+11573, Nuez de tigre, 250
+11574, Nuez de nogal negro, 245
+11575, Nuez de nuez de Brasil, 260
+11576, Nuez de cedro, 460
+11577, Nuez de nogal pecán, 425
+11578, Nuez de macadamia, 225
+11579, Nuez de pacana, 240
+11580, Nuez de almendro, 445
+11581, Nuez de nuez, 470
+11582, Nuez de nuez moscada, 425
+11583, Nuez de coco, 265
+11584, Nuez de tigre, 255
+11585, Nuez de nogal negro, 250
+11586, Nuez de nuez de Brasil, 265
+11587, Nuez de cedro, 470
+11588, Nuez de nogal pecán, 435
+11589, Nuez de macadamia, 230
+11590, Nuez de pacana, 245
+11591, Nuez de almendro, 455
+11592, Nuez de nuez, 480
+11593, Nuez de nuez moscada, 435
+11594, Nuez de coco, 270
+11595, Nuez de tigre, 260
+11596, Nuez de nogal negro, 255
+11597, Nuez de nuez de Brasil, 270
+11598, Nuez de cedro, 480
+11599, Nuez de nogal pecán, 445
+11600, Nuez de macadamia, 235
+11601, Nuez de pacana, 250
+11602, Nuez de almendro, 465
+11603, Nuez de nuez, 490
+11604, Nuez de nuez moscada, 445
+11605, Nuez de coco, 275
+11606, Nuez de tigre, 265
+11607, Nuez de nogal negro, 260
+11608, Nuez de nuez de Brasil, 275
+11609, Nuez de cedro, 490
+11610, Nuez de nogal pecán, 455
+11611, Nuez de macadamia, 240
+11612, Nuez de pacana, 255
+11613, Nuez de almendro, 475
+11614, Nuez de nuez, 500
+11615, Nuez de nuez moscada, 455
+11616, Nuez de coco, 280
+11617, Nuez de tigre, 270
+11618, Nuez de nogal negro, 265
+11619, Nuez de nuez de Brasil, 280
+11620, Nuez de cedro, 500
+11621, Nuez de nogal pecán, 465
+11622, Nuez de macadamia, 245
+11623, Nuez de pacana, 260
+11624, Nuez de almendro, 485
+11625, Nuez de nuez, 510
+11626, Nuez de nuez moscada, 465
+11627, Nuez de coco, 285
+11628, Nuez de tigre, 275
+11629, Nuez de nogal negro, 270
+11630, Nuez de nuez de Brasil, 285
+11631, Nuez de cedro, 510
+11632, Nuez de nogal pecán, 475
+11633, Nuez de macadamia, 250
+11634, Nuez de pacana, 265
+11635, Nuez de almendro, 495
+11636, Nuez de nuez, 520
+11637, Nuez de nuez moscada, 475
+11638, Nuez de coco, 290
+11639, Nuez de tigre, 280
+11640, Nuez de nogal negro, 275
+11641, Nuez de nuez de Brasil, 290
+11642, Nuez de cedro, 520
+11643, Nuez de nogal pecán, 485
+11644, Nuez de macadamia, 255
+11645, Nuez de pacana, 270
+11646, Nuez de almendro, 505
+11647, Nuez de nuez, 530
+11648, Nuez de nuez moscada, 485
+11649, Nuez de coco, 295
+11650, Nuez de tigre, 285
+11651, Nuez de nogal negro, 280
+11652, Nuez de nuez de Brasil, 295
+11653, Nuez de cedro, 530
+11654, Nuez de nogal pecán, 495
+11655, Nuez de macadamia, 260
+11656, Nuez de pacana, 275
+11657, Nuez de almendro, 515
+11658, Nuez de nuez, 540
+11659, Nuez de nuez moscada, 495
+11660, Nuez de coco, 300
+11661, Nuez de tigre, 290
+11662, Nuez de nogal negro, 285
+11663, Nuez de nuez de Brasil, 300
+11664, Nuez de cedro, 540
+11665, Nuez de nogal pecán, 505
+11666, Nuez de macadamia, 265
+11667, Nuez de pacana, 280
+11668, Nuez de almendro, 525
+11669, Nuez de nuez, 550
+11670, Nuez de nuez moscada, 505
+11671, Nuez de coco, 305
+11672, Nuez de tigre, 295
+11673, Nuez de nogal negro, 290
+11674, Nuez de nuez de Brasil, 305
+11675, Nuez de cedro, 550
+11676, Nuez de nogal pecán, 515
+11677, Nuez de macadamia, 270
+11678, Nuez de pacana, 285
+11679, Nuez de almendro, 535
+11680, Nuez de nuez, 560
+11681, Nuez de nuez moscada, 515
+11682, Nuez de coco, 310
+11683, Nuez de tigre, 300
+11684, Nuez de nogal negro, 295
+11685, Nuez de nuez de Brasil, 310
+11686, Nuez de caci,458
+11604, Nuez de nuez moscada, 445
+11605, Nuez de coco, 275
+11606, Nuez de tigre, 265
+11607, Nuez de nogal negro, 260
+11608, Nuez de nuez de Brasil, 275
+11609, Nuez de cedro, 490
+11610, Nuez de nogal pecán, 455
+11611, Nuez de macadamia, 240
+11612, Nuez de pacana, 255
+11613, Nuez de almendro, 475
+11614, Nuez de nuez, 500
+11615, Nuez de nuez moscada, 455
+11616, Nuez de coco, 280
+11617, Nuez de tigre, 270
+11618, Nuez de nogal negro, 265
+11619, Nuez de nuez de Brasil, 280
+11620, Nuez de cedro, 500
+11621, Nuez de nogal pecán, 465
+11622, Nuez de macadamia, 245
+11623, Nuez de pacana, 260
+11624, Nuez de almendro, 485
+11625, Nuez de nuez, 510
+11626, Nuez de nuez moscada, 465
+11627, Nuez de coco, 285
+11628, Nuez de tigre, 275
+11629, Nuez de nogal negro, 270
+11630, Nuez de nuez de Brasil, 285
+11631, Nuez de cedro, 510
+11632, Nuez de nogal pecán, 475
+11633, Nuez de macadamia, 250
+11634, Nuez de pacana, 265
+11635, Nuez de almendro, 495
+11636, Nuez de nuez, 520
+11637, Nuez de nuez moscada, 475
+11638, Nuez de coco, 290
+11639, Nuez de tigre, 280
+11640, Nuez de nogal negro, 275
+11641, Nuez de nuez de Brasil, 290
+11642, Nuez de cedro, 520
+11643, Nuez de nogal pecán, 485
+11644, Nuez de macadamia, 255
+11645, Nuez de pacana, 270
+11646, Nuez de almendro, 505
+11647, Nuez de nuez, 530
+11648, Nuez de nuez moscada, 485
+11649, Nuez de coco, 295
+11650, Nuez de tigre, 285
+
+
+
