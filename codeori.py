@@ -296,6 +296,11 @@ def guardar_datos():
         with open(archivo_path, "w") as archivo:
             for producto in datos:
                 archivo.write(f"{producto['id']}, {producto['nombre']}, {producto['stock']}\n")
+def acerca_de():
+    creadores = "Juan David, Alex, Danny, Jhordan"
+    facultad = "Facultad FIIS"
+    messagebox.showinfo("Acerca de", f"Creadores: {creadores}\nFacultad: {facultad}")
+               
 
 ventana = tk.Tk()
 ventana.title("Cargar y Ordenar Datos desde Archivo TXT")
@@ -314,6 +319,10 @@ boton_merge_sort.pack(pady=10)
 
 boton_stock_sort = tk.Button(ventana, text="Ordenar por Stock", command=ordenar_por_stock)
 boton_stock_sort.pack(pady=10)
+
+# Botón Acerca de
+boton_acerca_de = tk.Button(ventana, text="Acerca de", command=acerca_de)
+boton_acerca_de.pack(pady=10)
 
 ventana.mainloop()
 
